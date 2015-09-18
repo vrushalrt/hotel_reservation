@@ -1,0 +1,17 @@
+
+
+TABLE 'COUPLE'.....CODING TO BE WRITTEN IN ORACLE SQL TO CREATE THE TABLE.
+
+((((create table COUPLE (address varchar2(30) not null
+  ,phone_no number(17),days_of_staying number(20),rooms_on_rent number(20),class varchar2(20),tot
+al number(20),name varchar2(20));)))
+
+TABLE 'HOTELE'.....CODING TO BE WRITTEN IN ORACLE SQL TO CREATE THE TABLE.
+
+((((create table HOTEL (address varchar2(30) not null
+  ,phone_no number(17),days_of_staying number(20),rooms_on_rent number(20),class varchar2(20),tot
+al number(20),name varchar2(20));)))
+
+ROWS CAN BE INSERTED THROUGH VB OR THROUGH ORACLE BY THE CODE...
+
+insert into COUPLE values('VRUSHAL','594 sNEHDEEP DAHANU',12333,1,2,'first',200);

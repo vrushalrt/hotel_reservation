@@ -1,0 +1,27 @@
+Line 16: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control MSHFlexGrid1 was not a loaded control class.
+Line 17: The property name Bindings in MSHFlexGrid1 is invalid.
+Line 23: The property name _ExtentX in MSHFlexGrid1 is invalid.
+Line 24: The property name _ExtentY in MSHFlexGrid1 is invalid.
+Line 25: The property name _Version in MSHFlexGrid1 is invalid.
+Line 26: The property name Rows in MSHFlexGrid1 is invalid.
+Line 27: The property name Cols in MSHFlexGrid1 is invalid.
+Line 28: The property name WordWrap in MSHFlexGrid1 is invalid.
+Line 29: The property name ScrollTrack in MSHFlexGrid1 is invalid.
+Line 30: The property name GridLines in MSHFlexGrid1 is invalid.
+Line 32: The property name _NumberOfBands in MSHFlexGrid1 is invalid.
+Line 33: The property name _Band(0).Cols in MSHFlexGrid1 is invalid.
+Line 34: The property name _Band(0)._NumMapCols in MSHFlexGrid1 is invalid.
+Line 35: The property name _Band(0)._MapCol(0)._Name in MSHFlexGrid1 is invalid.
+Line 36: The property name _Band(0)._MapCol(0)._RSIndex in MSHFlexGrid1 is invalid.
+Line 37: The property name _Band(0)._MapCol(1)._Name in MSHFlexGrid1 is invalid.
+Line 38: The property name _Band(0)._MapCol(1)._RSIndex in MSHFlexGrid1 is invalid.
+Line 39: The property name _Band(0)._MapCol(2)._Name in MSHFlexGrid1 is invalid.
+Line 40: The property name _Band(0)._MapCol(2)._RSIndex in MSHFlexGrid1 is invalid.
+Line 41: The property name _Band(0)._MapCol(3)._Name in MSHFlexGrid1 is invalid.
+Line 42: The property name _Band(0)._MapCol(3)._RSIndex in MSHFlexGrid1 is invalid.
+Line 43: The property name _Band(0)._MapCol(4)._Name in MSHFlexGrid1 is invalid.
+Line 44: The property name _Band(0)._MapCol(4)._RSIndex in MSHFlexGrid1 is invalid.
+Line 45: The property name _Band(0)._MapCol(5)._Name in MSHFlexGrid1 is invalid.
+Line 46: The property name _Band(0)._MapCol(5)._RSIndex in MSHFlexGrid1 is invalid.
+Line 47: The property name _Band(0)._MapCol(6)._Name in MSHFlexGrid1 is invalid.
+Line 48: The property name _Band(0)._MapCol(6)._RSIndex in MSHFlexGrid1 is invalid.
